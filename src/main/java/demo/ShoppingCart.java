@@ -18,4 +18,8 @@ public class ShoppingCart {
         System.out.println("Checkout Method with a status parameter");
     }
 
+    public int quantity() {
+        return 2;
+    }
+
 }
